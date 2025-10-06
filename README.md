@@ -38,9 +38,13 @@
 ## 📸 Скриншоты
 
 <div align="center">
+
 <img src="https://github.com/Yusi-21/Notes/raw/main/app/src/main/res/drawable/screenshot1.jpg" width="30%" alt="screen1"/>
+
 <img src="https://github.com/Yusi-21/Notes/raw/main/app/src/main/res/drawable/screenshot2.jpg" width="30%" alt="screen2"/>
+  
 *Создание и удаление заметок*
+
 </div>
 
 ## ⚙ Установка
