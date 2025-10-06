@@ -39,3 +39,23 @@
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+```
+
+## 📸 Скриншоты
+
+<div align="center">
+
+<img src="https://github.com/Yusi-21/Contacts/raw/main/app/src/main/res/drawable/screenshot_1.jpg" width="30%" alt="screen1"/>
+
+<img src="https://github.com/Yusi-21/Contacts/raw/main/app/src/main/res/drawable/screenshot_2.jpg" width="30%" alt="screen2"/>
+
+*Логин, главный экран, поиск контактов*
+</div>
+
+## ⚙ Установка
+1. Клонируйте репозиторий:
+```bash
+git clone https://github.com/Yusi-21/Notes.git
+```
+2. Откройте проект в Android Studio
+3. Соберите и запустите приложение
