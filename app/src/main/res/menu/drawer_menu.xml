@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all_notes"
+
+            android:title="All notes"/>
+        <item
+            android:id="@+id/nav_month_notes"
+
+            android:title="Notes this month"/>
+        <item
+            android:id="@+id/nav_six_month_notes"
+
+            android:title="Notes in six months"/>
+        <item
+            android:id="@+id/nav_year_notes"
+
+            android:title="Notes in 1 year"/>
+    </group>
+</menu>
